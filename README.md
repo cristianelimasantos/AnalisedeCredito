@@ -1,7 +1,9 @@
 # AnalisedeCredito
 Estudo de caso para análise de inadimplências em concessão de créditos
 
-Metadados Idade: Idade do cliente; 
+Metadados 
+
+Idade: Idade do cliente; 
 Sexo: H - homem e M - mulher; 
 Escolaridade: Medio, Graduacao e Pos-Graduacao; 
 Tipo_Moradia: Se mora de favor, paga aluguel e tem casa propria; 
